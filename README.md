@@ -14,7 +14,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 Due to the fact that when we moved to another bug reporting system I can't link newly created bug reports, I'd like to add links to some of my old bug reports and suggestions that I created a couple of years ago. You can also see some of my other bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 - [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
-## Follow Me 🌎
+## 🌎 Follow Me 
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
 <a href="mailto:kirill.slyshkov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-kirill.slyshkov@gmail.com-purple?logo=Gmail&logoColor=red&color=red&style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/kirill-slyshkov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Kirill%20Slyshkov-purple?logo=linkedin&logoColor=blue&color=blue&style=flat-square" /></a>
@@ -22,20 +22,3 @@ Due to the fact that when we moved to another bug reporting system I can't link 
 <a href="https://steamcommunity.com/id/slayks/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-Slayks-purple?logo=steam&logoColor=black&color=black&style=flat-square" /></a>
 <a href="https://discordapp.com/users/233925988763959296/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discrod-Slaykswood-gray?labelColor=7087e4&logo=discord&logoColor=white&&style=flat-square" /></a>
 <a href="https://twitch.tv/slayks" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-Slayks-purple?labelColor=6441a5&logo=twitch&logoColor=white&&style=flat-square" /></a>
-
-
-
-<!--
-**SlayksWood/SlayksWood** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- :telescope: I’m currently working on ...
-- :seedling: I’m currently learning ...
-- :people_with_bunny_ears_partying: I’m looking to collaborate on ...
-- :thinking: I’m looking for help with ...
-- :speech_balloon: Ask me about ...
-- :mailbox: How to reach me: ...
-- :smile: Pronouns: ...
-- :zap: Fun fact: ...
--->
