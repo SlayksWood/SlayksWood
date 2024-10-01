@@ -1,4 +1,4 @@
-[![Header](https://github.com/SlayksWood/SlayksWood/blob/main/assets/testpicture.png)(https://www.notion.so/10ff83a3786e8048a8a7cd27effeb7c0)
+[![Header](https://github.com/SlayksWood/SlayksWood/blob/main/assets/testpicture.png)](https://www.notion.so/10ff83a3786e8048a8a7cd27effeb7c0)
 ## Hi👋, My name is Kirill
 
 
