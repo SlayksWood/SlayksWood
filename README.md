@@ -8,7 +8,11 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 ## Languages and Tools
 
+## Some interested issues and suggestions
 
+Due fact that when we moved to another bugreport system I can't link them here, I'd like to add links to some my old bug reports and some my old suggestions that I created a couple years ago. You can also see another my bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
+- [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
+- [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 ## Follow Me 🌎
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
 <a href="mailto:kirill.slyshkov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-kirill.slyshkov@gmail.com-purple?logo=Gmail&logoColor=red&color=red&style=flat-square" /></a>
