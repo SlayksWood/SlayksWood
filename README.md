@@ -10,7 +10,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 
 ## Follow Me 🌎
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirill_Slyshkov-blue)
+<a href="https://www.linkedin.com/in/kirill-slyshkov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Kirill%20Slyshkov-purple?logo=linkedin&logoColor=blue&color=blue&style=flat-square" /></a>
 
 
 
