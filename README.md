@@ -11,7 +11,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 ## :bug: Some interesting issues and suggestions  
 
-Due to the fact that when we moved to another bug reporting system I can't link them here, I'd like to add links to some of my old bug reports and suggestions that I created a couple of years ago. You can also see some of my other bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
+Due to the fact that when we moved to another bug reporting system I can't link newly created bug reports, I'd like to add links to some of my old bug reports and suggestions that I created a couple of years ago. You can also see some of my other bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 - [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 ## Follow Me 🌎
