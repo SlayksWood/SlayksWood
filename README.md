@@ -1,6 +1,6 @@
 <img src="https://github.com/SlayksWood/SlayksWood/blob/main/assets/Bender.png" width="150" align="right">
 
-## Hi, My name is Kirill Slyshkov! :wave:
+## :wave: Hi, My name is Kirill Slyshkov! 
 
 I'm a QA Engineer
 
@@ -9,7 +9,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 ## Languages and Tools
 
-## Some interesting issues and suggestions :bug: 
+## :bug: Some interesting issues and suggestions  
 
 Due fact that when we moved to another bugreport system I can't link them here, I'd like to add links to some my old bug reports and some my old suggestions that I created a couple years ago. You can also see another my bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
