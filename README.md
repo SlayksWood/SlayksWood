@@ -1,4 +1,4 @@
-<img src="https://github.com/SlayksWood/SlayksWood/blob/main/assets/Bender.png" width="150" align="right">
+<img src="https://github.com/SlayksWood/SlayksWood/blob/main/assets/Bender_noback.png" width="150" align="right">
 
 ## :wave: Hi, My name is Kirill Slyshkov! 
 
