@@ -13,7 +13,6 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
 <a href="mailto:kirill.slyshkov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-kirill.slyshkov@gmail.com-purple?logo=Gmail&logoColor=red&color=red&style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/kirill-slyshkov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Kirill%20Slyshkov-purple?logo=linkedin&logoColor=blue&color=blue&style=flat-square" /></a>
-
 <a href="https://steamcommunity.com/id/slayks/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-Slayks-purple?logo=steam&logoColor=black&color=black&style=flat-square" /></a> 
 <a href="https://discordapp.com/users/233925988763959296/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discrod-Slaykswood-gray?labelColor=7087e4&logo=discord&logoColor=white&&style=flat-square" /></a> 
 <a href="https://twitch.tv/slayks" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-Slayks-purple?labelColor=6441a5&logo=twitch&logoColor=white&&style=flat-square" /></a>
