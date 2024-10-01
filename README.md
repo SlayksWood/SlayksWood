@@ -1,4 +1,4 @@
-<img src="https://github.com/SlayksWood/SlayksWood/blob/main/assets/bender.png" width="150" align="right">
+<img src="https://github.com/SlayksWood/SlayksWood/blob/main/assets/Bender.png" width="150" align="right">
 
 ## Hello, My name is Kirill Slyshkov! 👋
 I'm a QA Engineer
