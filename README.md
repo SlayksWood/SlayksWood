@@ -2,18 +2,24 @@
 
 ## :wave: Hi, My name is Kirill Slyshkov! 
 
-I'm a QA Engineer
+I'm an **A**ccurate **M**eticulous **A**daptable **Z**ero-defect **I**nquisitive **N**eighborly **G**oal-oriented QA Engineer.
 
 ## :man_technologist: About Me
 Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 
 ## :hammer_and_wrench: Languages and Tools
 
-## :bug: Some interesting issues and suggestions  
+## :bug: Some interesting issues,suggestions.
 
-Due to the fact that when we moved to another bug reporting system I can't link newly created bug reports, I'd like to add links to some of my old bug reports and suggestions that I created a couple of years ago. You can also see some of my other bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
+Due to the fact that when we moved to another bug reporting system I can't link newly created bug reports, I'd like to add links to some of my old bug reports and suggestions that I created a couple of years ago. You can also see some of my other old bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20507)
 - [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
+
+## Test Plans, suites, cases.
+I can't show you many of my test cases and checklists because they are in private repositories. However, as an example, I can show a couple of screenshots of my first cases in TestLodge.
+
+
+
 ## 🌎 Follow Me 
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
 <a href="mailto:kirill.slyshkov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-kirill.slyshkov@gmail.com-purple?logo=Gmail&logoColor=red&color=red&style=flat-square" /></a>
