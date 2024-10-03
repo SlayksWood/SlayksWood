@@ -23,6 +23,11 @@ When I joined the team, there wasn't a proper test plan in place. We only had a 
 
 2. [A couple of screenshots of our Test Plans, suites, and cases after we migrated them to TestLodge.](linkhere)
 
+When I was appointed as QA Lead at the company, things were going quite well. The team was expanding, and including myself, there were 6 QA members. However, one of them worked separately with their own team, focusing on the game’s website and wasn’t directly reporting to me. Two of the testers were newcomers, and I realized that our checklists in Google Sheets were not detailed enough for them. Some of the more detailed ones were good, but still not detailed enough for training purposes. After discussing this with our Producer, CTO and CEO, I received approval to implement a Test Case Management Tool. I conducted research to find the most suitable one for us. I looked into all the popular tools: TestRail, Qase, and TestIt. But the final decision came down to TestLodge and Sleekplan, as our budget was limited. Ultimately, we chose TestLodge because it could be integrated with ClickUp.
+
+It was quite an interesting time, where I gained a lot of experience, including learning from my mistakes. At the same time, the migration from Google Sheets to TestLodge was made easier by my prior educational background as a Metalworking Process Engineer, which helped me create detailed test cases.
+
+
 
 ## 🌎 Follow Me 
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
