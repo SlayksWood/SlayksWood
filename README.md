@@ -16,6 +16,8 @@ Due to the fact that when we moved to another bug reporting system I can't link 
 - [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 
 ## Test Plans, suites, cases.
+### My job at Strange Loop Games:
+
 I can't show you many of my test cases and checklists because they are in private repositories. However, I can provide
 1. [A small part of our Economics Test Plan as an example, which I used for experimentation](https://docs.google.com/spreadsheets/d/1sRE2hZ3cfN8LnyIdNWyqO7HQ-uH18adAcLPKiSak0Y0/edit?usp=sharing). 
 
