@@ -12,7 +12,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 ## :bug: Some interesting issues,suggestions.
 ### My job at Strange Loop Games:
 
-Due to the fact that when we moved to another bug reporting system I can't link newly created bug reports, I'd like to add links to some of my old bug reports and suggestions that I created a couple of years ago. You can also see some of my other old bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
+Since we moved to another bug reporting system, I can't link newly created bug reports. However, I'd like to add links to some of my old bug reports and suggestions that I created when I worked as a QA Engineer. You can also see all my bug reports [created on GitHub](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20507)
 - [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 
