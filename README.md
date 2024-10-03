@@ -16,7 +16,7 @@ Since we moved to another bug reporting system, I can't link newly created bug r
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20507)
 - [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 
-## Test Plans, suites, cases.
+## :notebook_with_decorative_cover: Test Plans, suites, cases.
 ### My job at Strange Loop Games:
 
 I can't show you many of my test cases and checklists because they are in private repositories. However, I can provide
@@ -32,7 +32,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
 
 
 
-## 🌎 Follow Me 
+## :globe_with_meridians: Follow Me 
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
 <a href="mailto:kirill.slyshkov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-kirill.slyshkov@gmail.com-purple?logo=Gmail&logoColor=red&color=red&style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/kirill-slyshkov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Kirill%20Slyshkov-purple?logo=linkedin&logoColor=blue&color=blue&style=flat-square" /></a>
