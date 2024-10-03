@@ -16,8 +16,12 @@ Due to the fact that when we moved to another bug reporting system I can't link 
 - [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
 
 ## Test Plans, suites, cases.
-I can't show you many of my test cases and checklists because they are in private repositories. However, as an example, I can show a couple of screenshots of my first cases in TestLodge.
+I can't show you many of my test cases and checklists because they are in private repositories. However, I can provide
+1. [A small part of our Economics Test Plan as an example, which I used for experimentation](https://docs.google.com/spreadsheets/d/1sRE2hZ3cfN8LnyIdNWyqO7HQ-uH18adAcLPKiSak0Y0/edit?usp=sharing). 
 
+When I joined the team, there wasn't a proper test plan in place. We only had a small checklist of about 60-80 rows in a Google Sheet. It was a small checklist for such a large game. My colleague, who started working with me at the same time, and I divided the game into different parts and began improving our test plan by adding more cases, including negative test cases, since the original checklist mostly covered only positive ones. After some time, our test plan became so large that working with the Google Sheet caused it to freeze. The document I provided above is my first attempt to split that large Google Sheet into six documents based on the game's features. This document is for testing the Economic part (which is actually a small portion of the final economy document). As you can see, we have a detailed test plan for Contracts, Work Parties, and Store, while Economy Viewer, Exchange, and Mint are not as detailed yet since they haven't been redone. Also, because this is a copy, the links to the game versions are broken. In the official document, everything was properly set up.
+
+2. [A couple of screenshots of our Test Plans, suites, and cases after we migrated them to TestLodge.](linkhere)
 
 
 ## 🌎 Follow Me 
