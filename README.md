@@ -10,6 +10,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 ## :hammer_and_wrench: Languages and Tools
 
 ## :bug: Some interesting issues,suggestions.
+### My job at Strange Loop Games:
 
 Due to the fact that when we moved to another bug reporting system I can't link newly created bug reports, I'd like to add links to some of my old bug reports and suggestions that I created a couple of years ago. You can also see some of my other old bug reports [here](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20507)
