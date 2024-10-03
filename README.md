@@ -12,7 +12,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 ## :bug: Some examples of my various bug reports.
 ### My job at Strange Loop Games:
 
-Since we moved to another bug reporting system, I can't link newly created bug reports. However, I'd like to add links to some of my old bug reports and suggestions that I created when I worked as a QA Engineer. You can also see all my bug reports [created on GitHub](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
+Unfortunately, since we moved to another bug reporting system, I can't link newly created bug reports. However, I'd like to add links to some of my old bug reports and suggestions that I created when I worked as a QA Engineer. You can also see all my bug reports [created on GitHub](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
 
 - [Chunk loading problem](https://github.com/StrangeLoopGames/EcoIssues/issues/22390), [Crash with "objects in the world" tooltip](https://github.com/StrangeLoopGames/EcoIssues/issues/22233) - Bugs were created with conditions that allow for easy reproduction by the developer.
 - [Camera glitches if you press ESC in the beginning of Meteor Tutorial](https://github.com/StrangeLoopGames/EcoIssues/issues/21865), [Hint overlaps when hold selecting form type more then 1 sec](https://github.com/StrangeLoopGames/EcoIssues/issues/21860) - Adding screenshots, GIF or videos to the issues.
