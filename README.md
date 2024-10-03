@@ -9,12 +9,17 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 ## :hammer_and_wrench: Languages and Tools
 
-## :bug: Some interesting issues,suggestions.
+## :bug: Some examples of my various bug reports.
 ### My job at Strange Loop Games:
 
 Since we moved to another bug reporting system, I can't link newly created bug reports. However, I'd like to add links to some of my old bug reports and suggestions that I created when I worked as a QA Engineer. You can also see all my bug reports [created on GitHub](https://github.com/StrangeLoopGames/EcoIssues/issues/created_by/SlayksWood).
-- [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20507)
-- [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058)
+
+- [Chunk loading problem](https://github.com/StrangeLoopGames/EcoIssues/issues/22390), [Crash with "objects in the world" tooltip](https://github.com/StrangeLoopGames/EcoIssues/issues/22233) - Bugs were created with conditions that allow for easy reproduction by the developer.
+- [Camera glitches if you press ESC in the beginning of Meteor Tutorial](https://github.com/StrangeLoopGames/EcoIssues/issues/21865), [Hint overlaps when hold selecting form type more then 1 sec](https://github.com/StrangeLoopGames/EcoIssues/issues/21860) - Adding screenshots, GIF or videos to the issues.
+- [NullReferenceException with reconnect to server](https://github.com/StrangeLoopGames/EcoIssues/issues/22228), [Caught exception on Player while in NetObject ReceiveInitialState. BSON](https://github.com/StrangeLoopGames/EcoIssues/issues/22227), [A few NRE during disconect from server on avatar](https://github.com/StrangeLoopGames/EcoIssues/issues/21967) - Constant monitoring of errors in the log to ensure that the log file remains clean and is not spammed with errors that hinder tracking other errors in the log file.
+- [Can break hammer controller](https://github.com/StrangeLoopGames/EcoIssues/issues/22255), [Stuck in Tab mode after editing a list and cancel selection](https://github.com/StrangeLoopGames/EcoIssues/issues/20566), [Receive Permission contract crash](https://github.com/StrangeLoopGames/EcoIssues/issues/19977) - Adding errors from log files so that the developer does not waste time investigating them.
+- [Eco server take a lot of CPU](https://github.com/StrangeLoopGames/EcoIssues/issues/22314)- Monitor performance degradation. Also for that goal I created a special world to compare the different game versions with the same condition.
+- [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20507), [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058) - Constant feedback to improve UI/UX and some QOLs for users
 
 ## :notebook_with_decorative_cover: Test Plans, suites, cases.
 ### My job at Strange Loop Games:
