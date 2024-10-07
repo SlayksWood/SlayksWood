@@ -11,10 +11,10 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 - Project Tracking Software:
 <div>
     <a href="https://clickup.com/teams/software">
-        <img src="https://clickup.com/assets/brand/logo-v3-clickup-light.svg" title="ClickUp" alt="ClickUp" height="30" style="margin-left: 22px;"/>
+        <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40" style="margin-left: 22px;"/>
     </a>
     <a href="https://www.zenhub.com/extension">
-    <img src="https://cdn.prod.website-files.com/62827cf4fe5eb528708511d4/660afba87c2dcb55d4e2cfe6_zenhub-logo-tm.svg" title="Zenhub" alt="Zenhub" height="30" style="margin-left: 300px;"/>
+    <img src="https://app.zenhub.com/dist/images/zenhub-logo-icon.533659dc14e092e17bd2.svg" title="Zenhub" alt="Zenhub" height="40" style="margin-left: 10px;"/>
     </a>
 </div>
 
