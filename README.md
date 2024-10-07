@@ -44,10 +44,13 @@ It was quite an interesting time, where I gained a lot of experience, including 
     </a>
 </div>
 
-### Test Management Tools:
+### Test Documentation:
 <div>
     <a href="https://www.testlodge.com/">
         <img src="https://www.svgrepo.com/show/354448/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>
+    </a>
+    <a href="https://www.figma.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="TestLodge" alt="TestLodge" height="40"/>
     </a>
 </div>
 
@@ -87,7 +90,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
     </a>
 </div>
 
-## :globe_with_meridians: Follow Me 
+## :globe_with_meridians: Connect with me
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
 <a href="mailto:kirill.slyshkov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-kirill.slyshkov@gmail.com-purple?logo=Gmail&logoColor=red&color=red&style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/kirill-slyshkov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Kirill%20Slyshkov-purple?logo=linkedin&logoColor=blue&color=blue&style=flat-square" /></a>
