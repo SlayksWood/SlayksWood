@@ -37,17 +37,17 @@ It was quite an interesting time, where I gained a lot of experience, including 
 ### Project Tracking Software:
 <div>
     <a href="https://clickup.com/teams/software">
-        <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40" style="text-decoration: none;"/>&nbsp
+        <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40" style="margin-right: 100px;"/>
     </a>
     <a href="https://www.zenhub.com/extension">
-    <img src="https://app.zenhub.com/dist/images/zenhub-logo-icon.533659dc14e092e17bd2.svg" title="Zenhub" alt="Zenhub" height="40"/>&nbsp
+    <img src="https://app.zenhub.com/dist/images/zenhub-logo-icon.533659dc14e092e17bd2.svg" title="Zenhub" alt="Zenhub" height="40"/>
     </a>
 </div>
 
 ### Test Management Tools:
 <div>
     <a href="https://www.testlodge.com/">
-        <img src="https://www.svgrepo.com/show/354448/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>&nbsp
+        <img src="https://www.svgrepo.com/show/354448/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>
     </a>
 </div>
 
