@@ -36,8 +36,8 @@ It was quite an interesting time, where I gained a lot of experience, including 
 ## :hammer_and_wrench: Tools Experience
 ### Project Tracking Software:
 <div>
-    <a href="https://clickup.com/teams/software">
-        <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40" style="margin-right: 100px;"/>
+    <a href="https://clickup.com/teams/software" >
+        <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40"/>&nbsp
     </a>
     <a href="https://www.zenhub.com/extension">
     <img src="https://app.zenhub.com/dist/images/zenhub-logo-icon.533659dc14e092e17bd2.svg" title="Zenhub" alt="Zenhub" height="40"/>
@@ -57,7 +57,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
         <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" height="40"/>&nbsp
     </a>
     <a href="https://developer.chrome.com/docs/devtools">
-    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" height="40"/>&nbsp
+    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" height="40"/>
     </a>
 </div>
 
@@ -76,14 +76,14 @@ It was quite an interesting time, where I gained a lot of experience, including 
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" title="Visual Studio" alt="Visual Studio" height="40"/>&nbsp
     </a>
     <a href="https://www.jetbrains.com/rider/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" title="Rider" alt="Rider" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" title="Rider" alt="Rider" height="40"/>
     </a>
 </div>
 
 ### Game Development:
 <div>
     <a href="https://unity.com/">
-        <img src="https://www.svgrepo.com/show/342325/unity.svg" title="Unity" alt="Unity" height="40"/>&nbsp
+        <img src="https://www.svgrepo.com/show/342325/unity.svg" title="Unity" alt="Unity" height="40"/>
     </a>
 </div>
 
