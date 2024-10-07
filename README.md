@@ -8,7 +8,7 @@ My primary specialization at the moment is as a QA Engineer.
 Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 
 ## :hammer_and_wrench: Tools Experience
-#### Project Tracking Software:
+### Project Tracking Software:
 <div>
     <a href="https://clickup.com/teams/software">
         <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40"/>&nbsp
@@ -18,13 +18,46 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
     </a>
 </div>
 
-#### Web Application Testing: 
+### Test Management Tools:
+<div>
+    <a href="https://www.testlodge.com/">
+        <img src="https://www.svgrepo.com/show/354448/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>&nbsp
+    </a>
+</div>
+
+### Web Application Testing: 
 <div>
     <a href="https://www.postman.com/">
         <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" height="40"/>&nbsp
     </a>
     <a href="https://developer.chrome.com/docs/devtools">
-    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Zenhub" alt="Zenhub" height="40"/>&nbsp
+    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" height="40"/>&nbsp
+    </a>
+</div>
+
+### Working with Code:
+<div>
+    <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp
+    </a>
+    <a href="https://www.jenkins.io/">
+    <img src="https://contributors.jenkins.io/jenkins.png" title="Jenkins" alt="Jenkins" height="40"/>&nbsp
+    </a>
+    <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" height="40"/>&nbsp
+    </a>
+    <a href="https://visualstudio.microsoft.com/vs/">
+    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" title="Visual Studio" alt="Visual Studio" height="40"/>&nbsp
+    </a>
+    <a href="https://www.jetbrains.com/rider/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" title="Rider" alt="Rider" height="40"/>&nbsp
+    </a>
+</div>
+
+### Game Development:
+<div>
+    <a href="https://unity.com/">
+        <img src="https://www.svgrepo.com/show/342325/unity.svg" title="Unity" alt="Unity" height="40"/>&nbsp
     </a>
 </div>
 
