@@ -36,7 +36,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
 ## :hammer_and_wrench: Tools Experience
 ### Project Tracking Software:
 <div>
-    <a href="https://clickup.com/teams/software">
+    <a href="https://clickup.com/teams/software" style="text-decoration: none;">
         <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40"/>&nbsp
     </a>
     <a href="https://www.zenhub.com/extension">
