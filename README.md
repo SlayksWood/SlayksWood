@@ -21,6 +21,24 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 - Web Application Testing: 
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Chrome Devtools](https://img.shields.io/badge/-ClickUp-090909?style=for-the-badge&logo=Clickup&logoColor=FF5E80)
+<div>
+    <a href="https://clickup.com/teams/software">
+        <img src="https://clickup.com/assets/brand/logo-v3-clickup-light.svg" title="ClickUp" alt="ClickUp" height="30" class="clickup-logo" style="margin-left: 22px;"/>
+    </a>
+    <style>
+        .clickup-logo {
+            content: url('https://clickup.com/assets/brand/logo-v3-clickup-light.svg');
+        }
+        @media (prefers-color-scheme: dark){
+            .clickup-logo { 
+                content: url('https://app-cdn.clickup.com/clickup_color_white-text.9c44680c975b046183e5679b33be34bc.svg');
+                }
+        }
+    </style>
+    <a href="https://www.zenhub.com/extension">
+    <img src="https://cdn.prod.website-files.com/62827cf4fe5eb528708511d4/660afba87c2dcb55d4e2cfe6_zenhub-logo-tm.svg" title="Zenhub" alt="Zenhub" height="30" style="margin-left: 300px;"/>
+    </a>
+</div>
 
 
 ## :bug: Some examples of my various bug reports.
