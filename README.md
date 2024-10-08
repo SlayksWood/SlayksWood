@@ -19,6 +19,8 @@ Unfortunately, since we moved to another bug reporting system, I can't link newl
 - [Eco server take a lot of CPU](https://github.com/StrangeLoopGames/EcoIssues/issues/22314)- Monitor performance degradation. Also for that goal I created a special world to compare the different game versions with the same condition.
 - [Minimap navigation QOL](https://github.com/StrangeLoopGames/EcoIssues/issues/20507), [Improvement for Displaying markers on the minimap ](https://github.com/StrangeLoopGames/EcoIssues/issues/20058), [Extending the functionality of creating currencies](https://github.com/StrangeLoopGames/EcoSuggestions/issues/874) - Constant feedback to improve UI/UX, add some quality-of-life enhancements for users, and suggest feature improvements.
 
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlayksWood&theme=dark&show_icons=true)
+
 ## :notebook_with_decorative_cover: Test Plans, suites, cases.
 ### My job at Strange Loop Games:
 
@@ -90,7 +92,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
     </a>
 </div>
 
-## :globe_with_meridians: Connect with me
+## :globe_with_meridians: Connect with me:
 <a href="https://t.me/SlayksWood" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-Slaykswood-purple?logo=telegram&logoColor=25a3e2&color=25a3e2&style=flat-square" /></a>
 <a href="mailto:kirill.slyshkov@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-kirill.slyshkov@gmail.com-purple?logo=Gmail&logoColor=red&color=red&style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/kirill-slyshkov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Kirill%20Slyshkov-purple?logo=linkedin&logoColor=blue&color=blue&style=flat-square" /></a>
