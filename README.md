@@ -56,7 +56,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
         <img src="https://www.svgrepo.com/show/354448/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>
     </a>
     <a href="https://www.figma.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="TestLodge" alt="TestLodge" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40"/>
     </a>
 </div>
 
