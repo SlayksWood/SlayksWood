@@ -1,6 +1,6 @@
 <img src="https://github.com/SlayksWood/SlayksWood/blob/main/assets/Bender_noback.png" width="155" align="right">
 
-## :wave: Hi, My name is Kirill Slyshkov! 
+## :wave: Hi, My name is Kiryl Slyshkou! 
 
 My primary specialization at the moment is as a QA Engineer.
 
