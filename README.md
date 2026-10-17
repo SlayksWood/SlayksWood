@@ -75,7 +75,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
 ### Web Testing: 
 <div>
     <a href="https://www.postman.com/">
-        <img src="assets/icons/monochrome/postman.svg" title="Postman" alt="Postman" height="40"/>&nbsp
+        <img src="assets/icons/colored/postman.svg" title="Postman" alt="Postman" height="40"/>&nbsp
     </a>
     <a href="https://developer.chrome.com/docs/devtools">
     <img src="assets/icons/colored/devtools.png" title="Chrome DevTools" alt="Chrome DevTools" height="40"/>
