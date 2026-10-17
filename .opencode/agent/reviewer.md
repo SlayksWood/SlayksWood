@@ -1,7 +1,7 @@
 ---
 description: Strict QA Reviewer that inspects user intent, git diffs, verifies image transparency and assets, and enforces visual style consistency.
 mode: subagent
-model: google/gemini-1.5-pro-latest
+model: opencode/deepseek-v4.1-flash-free
 permission:
   edit: deny
   bash: allow
