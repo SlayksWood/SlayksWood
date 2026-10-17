@@ -55,14 +55,14 @@ It was quite an interesting time, where I gained a lot of experience, including 
         <img src="assets/icons/colored/zenhub.svg" title="Zenhub" alt="Zenhub" height="40"/>&nbsp
     </a>
     <a href="https://www.redmine.org/">
-        <img src="assets/icons/monochrome/redmine.svg" title="Redmine" alt="Redmine" height="40"/>
+        <img src="assets/icons/colored/Redmine.png" title="Redmine" alt="Redmine" height="40"/>
     </a>
 </div>
 
 ### Test Documentation:
 <div>
     <a href="https://www.testrail.com/">
-        <img src="assets/icons/monochrome/testrail.svg" title="TestRail" alt="TestRail" height="40"/>&nbsp
+        <img src="assets/icons/colored/testrail.jpg" title="TestRail" alt="TestRail" height="40"/>&nbsp
     </a>
     <a href="https://www.testlodge.com/">
         <img src="assets/icons/colored/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>&nbsp
