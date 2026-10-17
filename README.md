@@ -43,68 +43,68 @@ It was quite an interesting time, where I gained a lot of experience, including 
 ### Project Tracking Software:
 <div>
     <a href="https://www.atlassian.com/software/jira">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" height="40"/>&nbsp
+        <img src="assets/icons/colored/jira.svg" title="Jira" alt="Jira" height="40"/>&nbsp
     </a>
     <a href="https://www.atlassian.com/software/confluence">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" height="40"/>&nbsp
+        <img src="assets/icons/colored/confluence.svg" title="Confluence" alt="Confluence" height="40"/>&nbsp
     </a>
     <a href="https://clickup.com/teams/software">
-        <img src="https://app-cdn.clickup.com/clickup-symbol_color.6c3fc778987344003164b4b4c9826eb8.svg" title="ClickUp" alt="ClickUp" height="40"/>&nbsp
+        <img src="assets/icons/colored/clickup.svg" title="ClickUp" alt="ClickUp" height="40"/>&nbsp
     </a>
     <a href="https://www.zenhub.com/extension">
-        <img src="https://app.zenhub.com/dist/images/zenhub-logo-icon.533659dc14e092e17bd2.svg" title="Zenhub" alt="Zenhub" height="40"/>&nbsp
+        <img src="assets/icons/colored/zenhub.svg" title="Zenhub" alt="Zenhub" height="40"/>&nbsp
     </a>
     <a href="https://www.redmine.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redmine/redmine-original.svg" title="Redmine" alt="Redmine" height="40"/>
+        <img src="assets/icons/monochrome/redmine.svg" title="Redmine" alt="Redmine" height="40"/>
     </a>
 </div>
 
 ### Test Documentation:
 <div>
     <a href="https://www.testrail.com/">
-        <img src="https://www.vectorlogo.zone/logos/testrail/testrail-icon.svg" title="TestRail" alt="TestRail" height="40"/>&nbsp
+        <img src="assets/icons/monochrome/testrail.svg" title="TestRail" alt="TestRail" height="40"/>&nbsp
     </a>
     <a href="https://www.testlodge.com/">
-        <img src="https://www.svgrepo.com/show/354448/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>&nbsp
+        <img src="assets/icons/colored/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>&nbsp
     </a>
     <a href="https://www.figma.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40"/>
+        <img src="assets/icons/colored/figma.svg" title="Figma" alt="Figma" height="40"/>
     </a>
 </div>
 
 ### Web Testing: 
 <div>
     <a href="https://www.postman.com/">
-        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" height="40"/>&nbsp
+        <img src="assets/icons/colored/postman.svg" title="Postman" alt="Postman" height="40"/>&nbsp
     </a>
     <a href="https://developer.chrome.com/docs/devtools">
-    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" height="40"/>
+    <img src="assets/icons/colored/devtools.png" title="Chrome DevTools" alt="Chrome DevTools" height="40"/>
     </a>
 </div>
 
 ### Code:
 <div>
     <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp
+        <img src="assets/icons/colored/git.svg" title="Git" alt="Git" height="40"/>&nbsp
     </a>
     <a href="https://bitbucket.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" height="40"/>&nbsp
+        <img src="assets/icons/colored/bitbucket.svg" title="Bitbucket" alt="Bitbucket" height="40"/>&nbsp
     </a>
     <a href="https://www.jenkins.io/">
-    <img src="https://contributors.jenkins.io/jenkins.png" title="Jenkins" alt="Jenkins" height="40"/>&nbsp
+    <img src="assets/icons/colored/jenkins.png" title="Jenkins" alt="Jenkins" height="40"/>&nbsp
     </a>
     <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" height="40"/>&nbsp
+    <img src="assets/icons/colored/vscode.svg" title="VScode" alt="VScode" height="40"/>&nbsp
     </a>
     <a href="https://visualstudio.microsoft.com/vs/">
-    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" title="Visual Studio" alt="Visual Studio" height="40"/>
+    <img src="assets/icons/colored/visualstudio.svg" title="Visual Studio" alt="Visual Studio" height="40"/>
     </a>
 </div>
 
 ### Game Development:
 <div>
     <a href="https://unity.com/">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" alt="Unity" height="40"/>
+        <img src="assets/icons/colored/unity.svg" title="Unity" alt="Unity" height="40"/>
     </a>
 </div>
 
