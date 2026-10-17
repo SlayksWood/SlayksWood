@@ -55,14 +55,14 @@ It was quite an interesting time, where I gained a lot of experience, including 
         <img src="https://app.zenhub.com/dist/images/zenhub-logo-icon.533659dc14e092e17bd2.svg" title="Zenhub" alt="Zenhub" height="40"/>&nbsp
     </a>
     <a href="https://www.redmine.org/">
-        <img src="https://www.svgrepo.com/show/374026/redmine.svg" title="Redmine" alt="Redmine" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redmine/redmine-original.svg" title="Redmine" alt="Redmine" height="40"/>
     </a>
 </div>
 
 ### Test Documentation:
 <div>
     <a href="https://www.testrail.com/">
-        <img src="https://www.svgrepo.com/show/354425/testrail.svg" title="TestRail" alt="TestRail" height="40"/>&nbsp
+        <img src="https://www.vectorlogo.zone/logos/testrail/testrail-icon.svg" title="TestRail" alt="TestRail" height="40"/>&nbsp
     </a>
     <a href="https://www.testlodge.com/">
         <img src="https://www.svgrepo.com/show/354448/testlodge.svg" title="TestLodge" alt="TestLodge" height="40"/>&nbsp
@@ -104,7 +104,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
 ### Game Development:
 <div>
     <a href="https://unity.com/">
-        <img src="https://www.svgrepo.com/show/342325/unity.svg" title="Unity" alt="Unity" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" alt="Unity" height="40"/>
     </a>
 </div>
 
