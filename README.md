@@ -85,7 +85,7 @@ It was quite an interesting time, where I gained a lot of experience, including 
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" title="Visual Studio" alt="Visual Studio" height="40"/>&nbsp
     </a>
     <a href="https://www.jetbrains.com/rider/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" title="Rider" alt="Rider" height="40"/>
+    <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" title="Rider" alt="Rider" height="40"/>
     </a>
 </div>
 
